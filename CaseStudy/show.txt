@@ -1,0 +1,8 @@
+Avengers,08:30,40
+Dr Strange,22:00,20
+King Kong,20:00,50
+Anaconda,15:00,5
+KGF 2,12:00,1
+Jadugar,13:00,0
+Avengers,18:30,40
+Avatar,22:00,10
